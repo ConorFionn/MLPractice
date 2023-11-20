@@ -3,3 +3,4 @@ Working with machine learning algorithms to develop further understanding of AI 
 
 * Linear Regression
 * Random Forest
+* Tourism Based Chatbot built cities activities recommendations based on popularity and google reviews
